@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-3.0
+// SPDX-License-Identifier: GIT
 
 pragma solidity ^0.8.17;
 // send ether from one address to another "smart contract" 
